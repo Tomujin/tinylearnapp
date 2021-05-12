@@ -1,0 +1,18 @@
+<svg
+	xmlns="http://www.w3.org/2000/svg"
+	viewBox="0 0 53.72 53.72">
+	<defs>
+		<linearGradient id="linear-gradient" x1="4.05" y1="47.56" x2="52.05" y2="4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#7852a1"/>
+			<stop offset="1" stop-color="#ef518b"/>
+		</linearGradient>
+	</defs>
+	<title>Asset 6</title>
+	<g id="Layer_2" data-name="Layer 2">
+		<g id="Layer_2-2" data-name="Layer 2">
+			<rect class="cls-1" width="53.72" height="53.72" rx="16.43" fill='url(#linear-gradient)'/>
+			<path class="cls-2" d="M22.87,26.24H36.76V20.32H17v7.17A15.65,15.65,0,0,0,31.29,43h5.47v-6H31.29a9.74,9.74,0,0,1-8.42-9.58V26.24Z" fill='white'/>
+			<path class="cls-2" d="M19.91,16.61A3,3,0,1,0,17,13.66,3,3,0,0,0,19.91,16.61Z" fill='white'/>
+		</g>
+	</g>
+</svg>
